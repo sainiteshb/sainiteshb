@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**sainiteshb/sainiteshb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+```C
+printf("Never do tomorrow what you can do today. Procrastination is the thief of time. Quote by Charles Dickens.");
+```
