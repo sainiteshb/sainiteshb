@@ -1,5 +1,4 @@
-
-<!-- <img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Hi.gif" alt = "hi" width="40px" height="40px"> -->
+<h1 align="center"> <img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/hello.gif" alt="hello-gif">
 
 
 
