@@ -16,7 +16,6 @@ printf("Java is to JavaScript what car is to Carpet.");
 
 ### My GitHub Top Languages 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sainiteshb&hide=css,html)
-
 <br>
 <h2>
 Get in Touch <img src="https://github.com/sainiteshb/sainiteshb/blob/master/assets/Handshake.gif" height="32px">
