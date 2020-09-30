@@ -14,6 +14,10 @@ I am working on my **Data Structures** and **Algorithms**. My interest lies in *
 printf("Java is to JavaScript what car is to Carpet.");
 ```
 <br>
+### My GitHub Top Languages 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sainiteshb&hide=css,html)
+
+<br>
 <h2>
 Get in Touch <img src="https://github.com/sainiteshb/sainiteshb/blob/master/assets/Handshake.gif" height="32px">
 </h2>
