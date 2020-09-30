@@ -13,7 +13,7 @@ I am working on my **Data Structures** and **Algorithms**. My interest lies in *
 ```C
 printf("Java is to JavaScript what car is to Carpet.");
 ```
-<br>
+
 ### My GitHub Top Languages 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sainiteshb&hide=css,html)
 
