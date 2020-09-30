@@ -20,8 +20,9 @@ printf("Java is to JavaScript what car is to Carpet.");
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sainiteshb&repo=Apollo-19" />
 </a>
 </p>
-<h2>
  <br>
+
+<h2>
 Get in Touch <img src="https://github.com/sainiteshb/sainiteshb/blob/master/assets/Handshake.gif" height="32px">
 </h2>
 
