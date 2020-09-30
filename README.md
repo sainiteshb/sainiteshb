@@ -6,7 +6,7 @@ I am working on my **Data Structures** and **Algorithms**. My interest lies in *
 - 🌱 I’m currently learning  *Flutter, Firebase and integrating API's*
 - 👯 I’m looking to collaborate on *Mobile Development* 
 - 🤔 I’m looking for help with *Machine Learning*
-- 💬 Ask me about **anything random **
+- 💬 Ask me about **anything random**
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-sainitesh321@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sainitesh321@gmail.com)](mailto:sainitesh321@gmail.com)
 - ⚡ Fun fact: There may be life on Mars.
 
