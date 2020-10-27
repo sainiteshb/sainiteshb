@@ -1,6 +1,7 @@
 <h1 align="center"> <img src="https://github.com/sainiteshb/sainiteshb/blob/master/assets/hello.gif" alt="hello-gif" width="300px" height="100px" ><br >I'm <a href="https://www.linkedin.com/in/sai-nitesh-684b271a5"> Nitesh </a> </h1>
 
-## Download Spaceiva - The Astronomy App <a href="https://play.google.com/store/apps/details?id=nitesh.spaceiva"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200"></img></a>
+<h1 Download Spaceiva - The Astronomy App > 👇
+<a href="https://play.google.com/store/apps/details?id=nitesh.spaceiva"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200"></img></a>
 
 I am working on my **Data Structures** and **Algorithms**. My interest lies in **Mobile Dev**, **Astronomy** and **Machine Learning**.
 
