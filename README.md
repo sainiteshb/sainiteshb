@@ -5,7 +5,7 @@
 
 I am working on my **Data Structures** and **Algorithms**. My interest lies in **Mobile Dev**, **Astronomy** and **Machine Learning**.
 
-- 🔭 I’m currently working on **Spaceiva : Mobile App**
+- 🔭 I’m currently working on **Mobile App Dev**
 - 🌱 I’m currently learning  *Flutter, Firebase and integrating API's*
 - 👯 I’m looking to collaborate on *Mobile App Development* 
 - 🤔 I’m looking for help with *Machine Learning*
