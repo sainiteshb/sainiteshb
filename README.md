@@ -6,7 +6,7 @@
 I am working on my **Data Structures** and **Algorithms**. My interest lies in **Programming**, **Astronomy** and **CryptoCurrency**.
 
 - 🔭 I’m currently working on **Problem Solving**
-- 🌱 I’m currently learning  *Java *
+- 🌱 I’m currently learning  **Java**
 - 👯 I’m looking to collaborate on *Mobile App Development* 
 - 🤔 I’m looking for help with *Machine Learning*
 - 💬 Ask me about **anything random**
