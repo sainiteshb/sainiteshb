@@ -3,10 +3,10 @@
 <h2> Download Spaceiva - The Astronomy App  👇 </h2>
 <a href="https://play.google.com/store/apps/details?id=nitesh.spaceiva"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200"></img></a>
 
-I am working on my **Data Structures** and **Algorithms**. My interest lies in **Mobile Dev**, **Astronomy** and **Machine Learning**.
+I am working on my **Data Structures** and **Algorithms**. My interest lies in **Programming**, **Astronomy** and **CryptoCurrency**.
 
-- 🔭 I’m currently working on **Mobile App Dev**
-- 🌱 I’m currently learning  *Flutter, Firebase and integrating API's*
+- 🔭 I’m currently working on **Problem Solving**
+- 🌱 I’m currently learning  *Java *
 - 👯 I’m looking to collaborate on *Mobile App Development* 
 - 🤔 I’m looking for help with *Machine Learning*
 - 💬 Ask me about **anything random**
