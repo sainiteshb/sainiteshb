@@ -25,7 +25,7 @@ Get in Touch <img src="https://github.com/sainiteshb/sainiteshb/blob/master/asse
 </h2>
 
 | [<img src="https://github.com/sainiteshb/sainiteshb/blob/master/assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/sai-nitesh-684b271a5) |  [<img src="https://github.com/sainiteshb/sainiteshb/blob/master/assets/twitter.svg" alt="Twitter logo" width="50" height="60">](https://twitter.com/SaiNitesh13)|  [<img src="https://github.com/sainiteshb/sainiteshb/blob/master/assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:sainitesh321@gmail.com)
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|
 
 <br>
 Checkout my pinned Repos 👇
